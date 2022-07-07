@@ -11,8 +11,6 @@
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Leticia-pic" height="150" style="border-radius:50px;" 
-src="width=676&height=676]https://cdn.discordapp.com/attachments/994373633466171486/994374171482132530/picasion.com_461521a85fa9d76163866448d4b1c843.gif">
 </div>
   
   ##
@@ -25,3 +23,5 @@ src="width=676&height=676]https://cdn.discordapp.com/attachments/994373633466171
   ![Snake animation](https://github.com/LeticiaKeller/LeticiaKeller/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ![picasion com_461521a85fa9d76163866448d4b1c843](https://user-images.githubusercontent.com/108369765/177662924-7090b52e-9dac-410c-bdf7-5c6372d392f3.gif)
