@@ -22,9 +22,4 @@
   <a href="https://www.instagram.com/letsgoing98_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:leticiakeller98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leticiakeller98/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/LeticiaKeller/LeticiaKeller/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
-  
- ![ezgif com-gif-maker](https://user-images.githubusercontent.com/108369765/177663929-257fc4d5-56fa-4e25-a676-d622bdfb4af9.gif)
