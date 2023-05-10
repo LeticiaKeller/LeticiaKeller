@@ -14,6 +14,8 @@
   <img align="center" alt="Leticia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Leticia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Leticia-Js" height="30" width="40" src="![image](https://github.com/LeticiaKeller/LeticiaKeller/assets/108369765/bea0a052-da9b-437a-af5c-e20da6451eb3)
+">
   <i class="fa-brands fa-php"></i>
 </div>
   
