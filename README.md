@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Leticia Keller
 
-- 🌱 Estudando Javascript
+- 🌱 Estudando PHP
 - 😄 Pronouns: ela/dela
 
 <div align="center">
