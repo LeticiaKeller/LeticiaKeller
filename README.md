@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Leticia Keller
 
-- 🌱 Estudando PHP
-- 😄 Pronouns: ela/dela
+- 🌱 Estudando PHP / Learning PHP
+- 😄 Pronouns: ela/dela - She/Her
 
 <div align="center">
   <a href="https://github.com/LeticiaKeller">
