@@ -1,4 +1,4 @@
-## Olá! Eu sou a Leticia Keller
+## Olá! Eu sou a Letícia Keller
 
 - 🌱 Estudando PHP / Learning PHP
 - 😄 Pronouns: ela/dela - She/Her
